@@ -38,4 +38,4 @@ Interactive website to browse and watch trailers for trending movies.
 
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/ashvin-lodhi-792177258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashvin-lodhi-792177258/)
