@@ -36,10 +36,6 @@ Interactive website to browse and watch trailers for trending movies.
 
 ---
 
-## 📊 GitHub Stats
-![Ashvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashvinlodhi&show_icons=true&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://www.linkedin.com/in/ashvin-lodhi-792177258/)
